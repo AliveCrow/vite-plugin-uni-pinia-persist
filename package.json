@@ -1,0 +1,23 @@
+{
+  "name": "vite-plugin-uni-pinia-persist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AliveCrow/vite-plugin-uni-pinia-persist.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AliveCrow/vite-plugin-uni-pinia-persist/issues"
+  },
+  "homepage": "https://github.com/AliveCrow/vite-plugin-uni-pinia-persist#readme",
+  "devDependencies": {
+    "pinia": "^2.0.34"
+  }
+}

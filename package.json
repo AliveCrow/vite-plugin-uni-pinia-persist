@@ -1,8 +1,8 @@
 {
   "name": "vite-plugin-uni-pinia-persist",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "pinia持久化插件适用于uniapp vue3",
+  "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,7 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/AliveCrow/vite-plugin-uni-pinia-persist.git"
   },
-  "keywords": [],
+  "keywords": [
+    "vue3",
+    "uniapp",
+    "pinia",
+    "persist",
+    "持久化"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
